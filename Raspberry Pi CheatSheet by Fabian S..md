@@ -6,7 +6,6 @@ System
 LAMP/Webservice
 Python
 
-https://stackedit.io/app#
 
 
 Linux Version
