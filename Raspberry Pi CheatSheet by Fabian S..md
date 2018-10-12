@@ -130,7 +130,11 @@ Um zu schauen, welche Internetschnittstelle vorhanden ist eth0 or ENX
 
 Dort wird dieser Text geändert oder die # Zeichen weg 
 
-
+`   interface eth0
+    staticip_adress=
+    static routers=
+    static domain_name_servers= 
+`
 
 
 
