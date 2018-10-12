@@ -121,6 +121,15 @@ Auflistung der Sessions
 Session reconnect
 → `screen -r ... <listennummer>`
 
+Statische IP hinzufügen
+
+→ `sudo ifconfig`
+Um zu schauen, welche Internetschnittstelle vorhanden ist eth0 or ENX
+
+→ `sudo nano /etc/dhcpd.conf`
+
+Dort wird dieser Text geändert oder die # Zeichen weg 
+
 
 
 
